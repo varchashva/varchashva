@@ -1,7 +1,7 @@
 ### Hello
 I am Pramod Rana, a security engineer by profession, a coder by hobby, a runner by passion. 
 
-AppSec | RedTeam | OWASP Pune Chapter Lead | OSCP
+AppSec | RedTeam | Automation | OWASP Pune Chapter Lead | OSCP
 
 -------------------------------------
 
