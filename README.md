@@ -4,13 +4,13 @@ I am Pramod Rana, a security engineer by profession, a coder by hobby, a runner 
 AppSec | RedTeam | Automation | OWASP Pune Chapter Lead | OSCP
 
 -------------------------------------
-
-[![BHEU2018](https://img.shields.io/badge/BHEU2018-Arsenal-blue)](https://www.blackhat.com/eu-18/arsenal/schedule/#lmyn-lets-map-your-network-12991)
-[![BHUS2019](https://img.shields.io/badge/BHUS2019-Arsenal-blue)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#lmyn-lets-map-your-network-14974)
-[![Defcon27](https://img.shields.io/badge/DC27-DemoLabs-blue)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html#LMYN)
-[![BHEU2019](https://img.shields.io/badge/BHEU2019-Arsenal-blue)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#omniscient-lets-map-your-network-18059)
-[![nullcon2020](https://img.shields.io/badge/nullcon2020-Ammo-blue)](https://nullcon.net/website/goa-2020/ammo/omniscient.php)
+[![GrayHat2020](https://img.shields.io/badge/GrayHat2020-SECARMY-blue)](https://grayhat.sched.com/event/fUK9/learn-to-say-no-to-almost-every-vulnerability-art-of-risk-prioritization)
 [![BHUS2020](https://img.shields.io/badge/BHUS2020-Arsenal-blue)](https://www.blackhat.com/us-20/arsenal/schedule/index.html#vprioritizer-learn-to-say-no-to-almost-every-vulnerability-art-of-risk-prioritisation-21192)
+[![nullcon2020](https://img.shields.io/badge/nullcon2020-Ammo-blue)](https://nullcon.net/website/goa-2020/ammo/omniscient.php)
+[![BHEU2019](https://img.shields.io/badge/BHEU2019-Arsenal-blue)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#omniscient-lets-map-your-network-18059)
+[![Defcon27](https://img.shields.io/badge/DC27-DemoLabs-blue)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html#LMYN)
+[![BHUS2019](https://img.shields.io/badge/BHUS2019-Arsenal-blue)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#lmyn-lets-map-your-network-14974)
+[![BHEU2018](https://img.shields.io/badge/BHEU2018-Arsenal-blue)](https://www.blackhat.com/eu-18/arsenal/schedule/#lmyn-lets-map-your-network-12991)
 
 
 [![CVE-2019-11819](https://img.shields.io/badge/Alkacon%20OpenCMS%20%7c%20CSVi-CVE--2019--11819-red)]()
