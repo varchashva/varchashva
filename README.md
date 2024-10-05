@@ -1,22 +1,47 @@
 ### Hello
 I am Pramod Rana, a security engineer by profession, a coder by hobby, a runner by passion. 
 
-AppSec | RedTeam | Automation | OWASP Pune Chapter Lead | OSCP
+AppSec | RedTeam | Cloud Security | Automation | OWASP Pune Chapter Lead | OSCP
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-rana-696ba062/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IAmVarchashva?style=social)](https://twitter.com/IAmVarchashva)
-[![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/varchashva?style=social)](https://www.reddit.com/user/varchashva)
 [![Medium Blogs](https://img.shields.io/badge/Blogs-%23577284.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rana.miet)
 
 -------------------------------------
-[![GrayHat2020](https://img.shields.io/badge/GrayHat2020-SECARMY-blue)](https://grayhat.sched.com/event/fUK9/learn-to-say-no-to-almost-every-vulnerability-art-of-risk-prioritization)
-[![BHUS2020](https://img.shields.io/badge/BHUS2020-Arsenal-blue)](https://www.blackhat.com/us-20/arsenal/schedule/index.html#vprioritizer-learn-to-say-no-to-almost-every-vulnerability-art-of-risk-prioritisation-21192)
-[![nullcon2020](https://img.shields.io/badge/nullcon2020-Ammo-blue)](https://nullcon.net/website/goa-2020/ammo/omniscient.php)
-[![BHEU2019](https://img.shields.io/badge/BHEU2019-Arsenal-blue)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#omniscient-lets-map-your-network-18059)
-[![Defcon27](https://img.shields.io/badge/DC27-DemoLabs-blue)](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html#LMYN)
-[![BHUS2019](https://img.shields.io/badge/BHUS2019-Arsenal-blue)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#lmyn-lets-map-your-network-14974)
-[![BHEU2018](https://img.shields.io/badge/BHEU2018-Arsenal-blue)](https://www.blackhat.com/eu-18/arsenal/schedule/#lmyn-lets-map-your-network-12991)
+Speaking Profile --> 
+[rootcon 18](https://www.rootcon.org/html/rc18/talks#visibility_and_security_cicd_ecosystem)
+[AusCert Melbourne 2024](https://melbourne2024.cyberconference.com.au/speakers/pramod-rana-qc399)
+[HITBBKK Armory 2024](https://conference.hitb.org/hitbsecconf2024bkk/hitb-armory/#:~:text=Introduction%20to%20CICDGuard%20%2D%20Orchestrating%20visibility%20and%20security%20of%20CICD%20ecosystem)
+[OWASPGlobalAppSec Dublin 2023](https://www.youtube.com/watch?v=qPbkpEL_ThI)
+[Insomnihack 2023](https://www.youtube.com/watch?v=MsLwY9XbB4o)
+[Hack In Paris 2023](https://x.com/hackinparis/status/1707339488857350196)
+[OWASP NZ Day 2023](https://www.youtube.com/watch?v=kA7l752O0rM)
+[HackMiami X 2023](https://www.youtube.com/watch?v=mftHpnqqB2c) 
+[nullcon 2020](https://nullcon.net/website/goa-2020/ammo/omniscient.php)
+[BlackHat USA 2020](https://www.blackhat.com/us-20/arsenal/schedule/index.html#vprioritizer-learn-to-say-no-to-almost-every-vulnerability-art-of-risk-prioritisation-21192)
+[BlackHat USA 2019](https://www.blackhat.com/us-19/arsenal/schedule/index.html#lmyn-lets-map-your-network-14974)
+[Defcon 27](https://www.defcon.org/html/defcon-27/dc-27-demolabs.html#LMYN)
+[BlackHat Europe 2019](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#omniscient-lets-map-your-network-18059)
+[BlackHat Europe 2018](https://www.blackhat.com/eu-18/arsenal/schedule/#lmyn-lets-map-your-network-12991)
 
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+### Topics
+
+- [Doing more with less - DevSecOps with limited budget](https://appsec.org.nz/assets/presentations/conference-2024/Rana--Doing_More_with_Less.pdf)
+- [How to have visibility and security OF CICD ecosystem](https://conference.hitb.org/hitbsecconf2024bkk/hitb-armory/#:~:text=Introduction%20to%20CICDGuard%20%2D%20Orchestrating%20visibility%20and%20security%20of%20CICD%20ecosystem)
+- [Learn to say no to almost every vulnerability: art of risk prioritization](https://github.com/varchashva/vPrioritizer)
+- [Lets map your network: introduction to Omniscient](https://github.com/varchashva/LetsMapYourNetwork)
+
+#### Responsible Disclosure
 
 [![CVE-2019-11819](https://img.shields.io/badge/Alkacon%20OpenCMS%20%7c%20CSVi-CVE--2019--11819-red)]()
 [![CVE-2019-11817](https://img.shields.io/badge/IriusRisk%20%7c%20Info%20Leak-CVE--2019--11817-red)]()
