@@ -9,6 +9,7 @@ AppSec | RedTeam | Cloud Security | Automation | OWASP Pune Chapter Lead | OSCP
 
 -------------------------------------
 Speaking Profile --> 
+[OWASP NZ Day 2024](https://appsec.org.nz/assets/presentations/conference-2024/Rana--Doing_More_with_Less.pdf)
 [rootcon 18](https://www.rootcon.org/html/rc18/talks#visibility_and_security_cicd_ecosystem)
 [AusCert Melbourne 2024](https://melbourne2024.cyberconference.com.au/speakers/pramod-rana-qc399)
 [HITBBKK Armory 2024](https://conference.hitb.org/hitbsecconf2024bkk/hitb-armory/#:~:text=Introduction%20to%20CICDGuard%20%2D%20Orchestrating%20visibility%20and%20security%20of%20CICD%20ecosystem)
