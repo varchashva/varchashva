@@ -38,7 +38,7 @@ Speaking Profile -->
 ### Topics
 
 - [Doing more with less - DevSecOps with limited budget](https://appsec.org.nz/assets/presentations/conference-2024/Rana--Doing_More_with_Less.pdf)
-- [How to have visibility and security OF CICD ecosystem](https://conference.hitb.org/hitbsecconf2024bkk/hitb-armory/#:~:text=Introduction%20to%20CICDGuard%20%2D%20Orchestrating%20visibility%20and%20security%20of%20CICD%20ecosystem)
+- [How to have visibility and security OF CICD ecosystem](https://github.com/varchashva/CICDGuard)
 - [Learn to say no to almost every vulnerability: art of risk prioritization](https://github.com/varchashva/vPrioritizer)
 - [Lets map your network: introduction to Omniscient](https://github.com/varchashva/LetsMapYourNetwork)
 
